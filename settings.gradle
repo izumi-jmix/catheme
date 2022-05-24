@@ -1,0 +1,4 @@
+rootProject.name = 'catheme-all'
+
+includeBuild '../sampler'
+includeBuild '../theme-ext'

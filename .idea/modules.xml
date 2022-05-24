@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/catheme.iml" filepath="$PROJECT_DIR$/catheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sampler/sampler.iml" filepath="$PROJECT_DIR$/../sampler/sampler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../theme-ext/theme-ext.iml" filepath="$PROJECT_DIR$/../theme-ext/theme-ext.iml" />
+    </modules>
+  </component>
+</project>
